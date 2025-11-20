@@ -10,7 +10,7 @@ const sneakers = [
     name: 'Geobasket',
     year: '2010',
     description: 'Культовые высокие кроссовки с резким геометрическим силуэтом. Массивная подошва и драматичный профиль стали символом бренда.',
-    image: 'https://cdn.poehali.dev/projects/c60d2dbc-2035-4004-8e2a-96201ed08ac9/files/4e73487d-953e-4879-a2c9-b984ab171e93.jpg',
+    image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80',
     tags: ['Iconic', 'High-top', 'Geometric']
   },
   {
@@ -18,7 +18,7 @@ const sneakers = [
     name: 'Ramones',
     year: '2013',
     description: 'Минималистичные низкие кроссовки, названные в честь панк-группы. Чистые линии и массивная подошва с молнией сбоку.',
-    image: 'https://cdn.poehali.dev/projects/c60d2dbc-2035-4004-8e2a-96201ed08ac9/files/77af7a8e-3a2a-4c31-9d31-3f49abe8953c.jpg',
+    image: 'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=800&q=80',
     tags: ['Minimalist', 'Low-top', 'Punk']
   },
   {
@@ -26,7 +26,7 @@ const sneakers = [
     name: 'DRKSHDW Abstract',
     year: '2018',
     description: 'Экспериментальная коллекция с преувеличенными пропорциями и футуристическими формами. Настоящий авангард в мире обуви.',
-    image: 'https://cdn.poehali.dev/projects/c60d2dbc-2035-4004-8e2a-96201ed08ac9/files/9617441d-e965-46c0-9b7e-fbb1646a93db.jpg',
+    image: 'https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80',
     tags: ['Avant-garde', 'Experimental', 'DRKSHDW']
   }
 ];
